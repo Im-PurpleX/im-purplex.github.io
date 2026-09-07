@@ -1,3 +1,8 @@
-[
-  "https://purplexanisette-v3-server.onrender.com"
-]
+{
+    "servers": [
+        {
+            "name": "https://purplexanisette-v-serveronrendercom/",
+            "address": "https://purplexanisette-v-serveronrendercom/"
+        }
+    ]
+}
